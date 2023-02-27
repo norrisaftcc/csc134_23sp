@@ -15,7 +15,7 @@ Relevant assignments for today (2/15):
 
 Updated 2/27:
 - M4T1 
-- M4T2 (Menu, Input Validation) 
+- M4T2 (Menu, Input Validation)  
 
 #Markdown Examples
 # Heading
