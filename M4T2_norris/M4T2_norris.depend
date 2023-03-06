@@ -1,4 +1,6 @@
 # depslib dependency file v1.0
-1677515129 source:c:\dev\github\csc134_23sp\m4t2_norris\main.cpp
+1678118934 source:c:\dev\github\csc134_23sp\m4t2_norris\main.cpp
 	<iostream>
+	<cstdlib>
+	<ctime>
 
